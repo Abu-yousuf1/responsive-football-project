@@ -215,6 +215,7 @@ header {
 
 @media only screen and (max-width:688px) {
     body {
+        margin: 0;
         height: 7735px;
         width: 330px;
     }
