@@ -224,7 +224,7 @@ header {
     }
     .header-text {
         margin: 0;
-        padding: 50px 66px 0 16px;
+        padding: 20px 66px 0 16px;
     }
     .header-text h2, .highlights-text h2 {
         font-size: 38px;
@@ -234,7 +234,7 @@ header {
     }
     .header-img {
         margin: 0;
-        padding-bottom: 500px;
+        padding-bottom: 8500px;
     }
     .header-img img, .highlights-img img {
         width: 329px;
